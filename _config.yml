@@ -1,22 +1,22 @@
-title:            Works and Stuff
-description:      Just a collection of the things i do when I'm bored :)
-disqus_shortname: 
+title:            Site Title
+description:      Describe your website here.
+disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:	p4cm4n/p4cm4n.github.io
+url:
 
 # Owner/author information
 owner:
-  name:           Paco Núñez
+  name:           Your Name
   avatar:         avatar.jpg
-  bio:            "Experimenting with tech since the 80s :D"
-  email:          blasyramon27@gmail.com
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       paco.nuniez
-  github:         p4cm4n
+  facebook:       
+  github:         
   stackexchange:  
   linkedin:       
   instagram:      
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Madrid
+timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -56,7 +56,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: true
+  use_coderay: true
 
   coderay:
     coderay_line_numbers: nil
