@@ -11,12 +11,12 @@ url:	p4cm4n/p4cm4n.github.io
 owner:
   name:           Paco Núñez
   avatar:         avatar.jpg
-  bio:            "EXperimenting with tech since the 80s :D"
-  email:          you@email.com
+  bio:            "Experimenting with tech since the 80s :D"
+  email:          blasyramon27@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
+  facebook:       paco.nuniez
+  github:         p4cm4n
   stackexchange:  
   linkedin:       
   instagram:      
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Madrid
 future:      true
 highlighter: pygments
 markdown:    kramdown
